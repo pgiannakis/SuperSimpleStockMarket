@@ -13,15 +13,7 @@ import ration.FinancialRatio;
 import data.Stock;
 import enums.StockType;
 
-/**
- * @author памациытгс
- *
- */
 public class TestCommonDividendYield {
-	/**
-	 * @uml.property  name="stock"
-	 * @uml.associationEnd  
-	 */
 	Stock stock;
 	
 	@Before
